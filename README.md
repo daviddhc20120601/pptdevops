@@ -6,7 +6,9 @@ so lets make the ppt prodcution faster and simpler
 most of the code will be like ppt generation, lets brainstorm ,welcome ideas
 ## how to contribute
 1 fork
+
 2 commit 
+
 3 pull request
 
 # thanks for the support, lets make the world a better place
